@@ -16,6 +16,7 @@
 		BD26ADF41C883791007E4511 /* RatingControl.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD26ADF31C883791007E4511 /* RatingControl.swift */; };
 		BD63F43D1C8D3E0200561D56 /* MealTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD63F43C1C8D3E0200561D56 /* MealTableViewCell.swift */; };
 		BD63F43F1C8D6E2E00561D56 /* MealTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD63F43E1C8D6E2E00561D56 /* MealTableViewController.swift */; };
+		BD63F4441C8DCA4800561D56 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = BD63F4431C8DCA4800561D56 /* Default-568h@2x.png */; };
 		BDD4DD1C1C8991F000824663 /* Meal.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDD4DD1B1C8991F000824663 /* Meal.swift */; };
 		BDD4DD1D1C8991F000824663 /* Meal.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDD4DD1B1C8991F000824663 /* Meal.swift */; };
 /* End PBXBuildFile section */
@@ -44,6 +45,7 @@
 		BD26ADF31C883791007E4511 /* RatingControl.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RatingControl.swift; sourceTree = "<group>"; };
 		BD63F43C1C8D3E0200561D56 /* MealTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = MealTableViewCell.swift; path = ../MealTableViewCell.swift; sourceTree = "<group>"; };
 		BD63F43E1C8D6E2E00561D56 /* MealTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MealTableViewController.swift; sourceTree = "<group>"; };
+		BD63F4431C8DCA4800561D56 /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
 		BDD4DD1B1C8991F000824663 /* Meal.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Meal.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -68,6 +70,7 @@
 		BD26ADC71C87ECB4007E4511 = {
 			isa = PBXGroup;
 			children = (
+				BD63F4431C8DCA4800561D56 /* Default-568h@2x.png */,
 				BD26ADD21C87ECB5007E4511 /* FoodTracker */,
 				BD26ADE71C87ECB5007E4511 /* FoodTrackerTests */,
 				BD26ADD11C87ECB5007E4511 /* Products */,
@@ -191,6 +194,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				BD26ADDE1C87ECB5007E4511 /* LaunchScreen.storyboard in Resources */,
+				BD63F4441C8DCA4800561D56 /* Default-568h@2x.png in Resources */,
 				BD26ADDB1C87ECB5007E4511 /* Assets.xcassets in Resources */,
 				BD26ADD91C87ECB5007E4511 /* Main.storyboard in Resources */,
 			);
