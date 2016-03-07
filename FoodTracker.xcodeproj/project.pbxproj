@@ -41,7 +41,7 @@
 		BD26ADE81C87ECB5007E4511 /* FoodTrackerTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FoodTrackerTests.swift; sourceTree = "<group>"; };
 		BD26ADEA1C87ECB5007E4511 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		BD26ADF31C883791007E4511 /* RatingControl.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RatingControl.swift; sourceTree = "<group>"; };
-		BD63F43C1C8D3E0200561D56 /* MealTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MealTableViewCell.swift; sourceTree = "<group>"; };
+		BD63F43C1C8D3E0200561D56 /* MealTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = MealTableViewCell.swift; path = ../MealTableViewCell.swift; sourceTree = "<group>"; };
 		BDD4DD1B1C8991F000824663 /* Meal.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Meal.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -66,7 +66,6 @@
 		BD26ADC71C87ECB4007E4511 = {
 			isa = PBXGroup;
 			children = (
-				BD63F43C1C8D3E0200561D56 /* MealTableViewCell.swift */,
 				BD26ADD21C87ECB5007E4511 /* FoodTracker */,
 				BD26ADE71C87ECB5007E4511 /* FoodTrackerTests */,
 				BD26ADD11C87ECB5007E4511 /* Products */,
@@ -85,6 +84,7 @@
 		BD26ADD21C87ECB5007E4511 /* FoodTracker */ = {
 			isa = PBXGroup;
 			children = (
+				BD63F43C1C8D3E0200561D56 /* MealTableViewCell.swift */,
 				BD26ADD31C87ECB5007E4511 /* AppDelegate.swift */,
 				BDD4DD1B1C8991F000824663 /* Meal.swift */,
 				BD26ADD51C87ECB5007E4511 /* ViewController.swift */,
